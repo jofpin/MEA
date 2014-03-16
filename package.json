@@ -1,0 +1,11 @@
+{
+    "name": "MEA",
+    "description": "Modify and evolve awesome",
+    "keywords": ["MEA", "license", "bullgi"],
+    "author": [
+        {
+            "name": "Jose Pino",
+            "twitter": "@mrjopino"
+        }
+    ]
+}
